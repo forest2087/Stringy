@@ -1,6 +1,6 @@
 <?php
 
-namespace Stringy;
+namespace FW\Stringy;
 
 use BadMethodCallException;
 use ReflectionClass;

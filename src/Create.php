@@ -1,6 +1,4 @@
-<?php
-
-namespace Stringy;
+<?php namespace FW\Stringy;
 
 if (!function_exists('Stringy\create')) {
     /**
