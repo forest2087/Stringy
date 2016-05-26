@@ -1,11 +1,11 @@
 {
-    "name": "danielstjules/stringy",
+    "name": "4st/stringy",
     "description": "A string manipulation library with multibyte support",
     "keywords": [
         "multibyte", "string", "manipulation", "utility", "methods", "utf-8",
         "helpers", "utils", "utf"
     ],
-    "homepage": "https://github.com/danielstjules/Stringy",
+    "homepage": "https://github.com/forest2087/Stringy",
     "license": "MIT",
     "authors": [
         {
@@ -22,8 +22,8 @@
         "phpunit/phpunit": "~4.0"
     },
     "support": {
-        "issues": "https://github.com/danielstjules/Stringy/issues",
-        "source": "https://github.com/danielstjules/Stringy"
+        "issues": "https://github.com/forest2087/Stringy/issues",
+        "source": "https://github.com/forest2087/Stringy"
     },
     "autoload": {
         "psr-4": { "Stringy\\": "src/" },
