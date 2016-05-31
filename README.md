@@ -8,8 +8,10 @@ Usage
 
 Add the following to config\app.php
 
+	//service provider
 	FW\Stringy\StringyServiceProvider::class
 
+	//alias
 	'Stringy' => FW\Stringy\Stringy::class,
 	
 In code
